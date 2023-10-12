@@ -1,0 +1,8 @@
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
