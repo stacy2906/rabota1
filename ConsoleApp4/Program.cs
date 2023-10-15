@@ -31,6 +31,28 @@ namespace ConsoleApp4
             //char nextChar = (char)asciiCode;
             //Console.WriteLine($"Символ, следующий за {ch} в кодовой таблице ASCII, это: {nextChar}", ch, nextChar);
 
+            //Задача 4. Дан символ. Вывести два символа, стоящие перед ним в кодовой таблице ASCII
+
+            //Console.Write("Введите символ: ");
+            //int asciiCode = (int)symbol; 
+
+            //char prev1 = (char)(asciiCode - 1); 
+            //char prev2 = (char)(asciiCode - 2); 
+
+            //Console.WriteLine($"Первый предыдущий символ: {prev1}");
+            //Console.WriteLine($"Второй предыдущий символ: {prev2}");
+
+
+            //Задача 5. Дан символ. Вывести два символа, первый из которых предшествует введенному символу в кодовой таблице, а второй – следует после него
+            
+            //Console.Write("Введите символ: ");
+
+            //char prevSymbol = (char)(symbol - 1);
+            //char nextSymbol = (char)(symbol + 1); 
+
+            //Console.WriteLine($"Предыдущий символ: {prevSymbol}");
+            //Console.WriteLine($"Следующий символ: {nextSymbol}");
+            
             //Задача 6. Дано название футбольного клуба. Напечатать его на экране «столбиком»
 
             //Console.Write("Введите название клуба: ");
@@ -57,21 +79,20 @@ namespace ConsoleApp4
             //Задача 8.Преобразовать символы в строке из строчных в прописные и обратно
 
             {
-                Console.Write("Введите строку:");
-                string str = Console.ReadLine();
-                char[] simvol = str.ToCharArray();
-                for (int i = 0; i < simvol.Length; i++)
-                {
-                    Console.Write(char.ToUpper(simvol[i]));
-                }
-                Console.WriteLine();
-                for (int i = 0; i < simvol.Length; i++)
-                {
-                    Console.Write(char.ToLower(simvol[i]));
-                }
+                //Console.Write("Введите строку:");
+                //string str = Console.ReadLine();
+                //char[] simvol = str.ToCharArray();
+                //for (int i = 0; i < simvol.Length; i++)
+                //{
+                    //Console.Write(char.ToUpper(simvol[i]));
+                //}
+                //Console.WriteLine();
+                //for (int i = 0; i < simvol.Length; i++)
+                //{
+                   //Console.Write(char.ToLower(simvol[i]));
+                //}
 
-                Console.ReadKey();
-
+                //Console.ReadKey();
             }
         }
     }
